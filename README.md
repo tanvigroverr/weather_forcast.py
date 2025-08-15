@@ -25,7 +25,3 @@ This app fetches and displays **current weather data** for any city or ZIP code 
 
 ## 📦 Installation
 
-1. **Clone this repository**
-   ```bash
-   git clone https://github.com/yourusername/simple-weather-app.git
-   cd simple-weather-app
